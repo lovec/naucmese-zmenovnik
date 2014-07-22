@@ -1,0 +1,37 @@
+/*=================================*/
+/* Plumbing Theme
+/* By: Zohma (Barry Anders)
+/* http: //github.com/zohma
+/*=================================*/
+
+/* Structure Styles
+/*---------------------------------------------*/
+
+#header {
+	margin-bottom: 51px;
+}
+
+#header .logo {
+    height: 50px;
+}
+
+#content {
+  padding-top: 40px;
+}
+
+#footer {
+	padding: 60px 0;
+	margin-top: 80px;
+	background: #f1f1f1;
+	text-align: center;
+}
+
+
+a, .navbar-inverse .navbar-nav > li > a {
+    color: #0088cc;
+}
+
+a.hover, .navbar-inverse .navbar-nav > li > a:hover {
+    color: #005580;
+    text-decoration: underline;
+}
