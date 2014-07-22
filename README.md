@@ -1,0 +1,2 @@
+naucmese-zmenovnik
+==================
