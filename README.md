@@ -1,5 +1,5 @@
 Naučmese.cz Změnovník
-====
+=====================
 
 CMS systém pro publikování provedených změn na webu.
 
